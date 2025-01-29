@@ -1,0 +1,13 @@
+Electric Bill
+Januray=600
+Feb=900
+March=100
+April=1101
+May=3489
+June=827
+July=2837
+August=2736
+Sept=8465
+Oct=253
+Nov=7485
+Dec=9128
